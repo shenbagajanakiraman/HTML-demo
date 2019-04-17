@@ -1,4 +1,4 @@
 HTML DEMO
 Hi there
-hlw lakshmi
-hi
+Hi Lakshmi
+Have a great day :-)
