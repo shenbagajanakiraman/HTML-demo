@@ -1,19 +1,15 @@
-form li
+body
 {
-	list-style: none;
-	margin-bottom: 15px;
-}
-form ul
-{
-	padding-left: 0;
+	background-color: #e3e3e3;
+	font-family: sans-serif;
+	width: 700px;
+	margin: auto;
+	margin-top: 50px;
 }
 
-textarea
+blockquote
 {
-	width: 350px;
-	height: 200px;
-}
-label 
-{
-	display: block;
+	text-align: center;
+	border: 1px solid white;
+	margin-left: 0;
 }
